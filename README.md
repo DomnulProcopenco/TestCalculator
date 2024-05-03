@@ -1,0 +1,2 @@
+# TestCalculator
+Testarea Calculatorului (rezultate)
